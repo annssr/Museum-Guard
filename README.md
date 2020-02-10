@@ -3,4 +3,4 @@
 
 Code on demand.
 
-<video src="https://www.youtube.com/embed/kVEFiSbi58c" width="320" height="200" controls preload></video>
+[Video](https://youtu.be/kVEFiSbi58c)
